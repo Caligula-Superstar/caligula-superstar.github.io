@@ -99,7 +99,7 @@ body:before {
             rgba(0, 0, 0, .8) 0%,
             rgba(0, 0, 0, .6) 30%,
             rgba(0, 0, 0, 0) 50%),
-        url('assets/haseundrudi_compressed.jpg');
+        url('assets/Code.jpg');
     background-position: 0% 0%,
         center;
     background-repeat: repeat, repeat;
@@ -213,7 +213,7 @@ p .li {
 }
 
 #text07 {
-    color: #ffffff;
+    color: #f50af5;
     font-family: 'aganbold', sans-serif;
     letter-spacing: -0.15rem;
     width: 100%;
@@ -579,7 +579,7 @@ hr:before {
         background-image: linear-gradient(90deg,
                 rgba(0, 0, 0, 0) 19%,
                 rgba(0, 0, 0, 0) 61%),
-            url('assets/haseundrudi_compressed.jpg');
+            url('assets/Code.jpg');
         position: relative;
         width: 100%;
         height: 45vh;
